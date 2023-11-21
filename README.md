@@ -22,9 +22,11 @@
 
 ### TTM8解説本のみ購入先
 
-https://www.amazon.co.jp/TTM8%E5%AE%9F%E8%B7%B5%E8%A7%A3%E8%AA%AC-%E6%B1%8E%E7%94%A8%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AFIC%E3%82%AD%E3%83%83%E3%83%88%E3%81%A7%E5%89%B5%E3%82%8B%E8%87%AA%E4%BD%9CCPU-%E9%9B%BB%E5%AD%90%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC/dp/4295600911/
+https://www.amazon.co.jp/TTM8実践解説-汎用ロジックICキットで創る自作CPU-電子ライダー/dp/4295600911/
 
 ### 設計者のホームページ
+
+設計:みやこ電子工房
 
 https://www.miyakodenshikobo.com/product/hardware/ttm8/
 
