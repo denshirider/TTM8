@@ -67,13 +67,31 @@ https://www.miyakodenshikobo.com/product/hardware/ttm8/
 
 【付属品】部品表、取扱説明書と組み立て説明書へのQRコード ＊別途、電源として １A以上のUSB ACアダプタかモバイルバッテリの他、接続のためのUSB-Bケーブルが必要です。
 
+# TTM8アセンブラ
+
+エクセルファイル「TTM8_Assembler.xlsx」をご使用ください。アセンブリで記述するとマシン語に翻訳されます。翻訳されたマシン語をTTM8に書き込んで実行してください。
+
+![アセンブラの画像](./image/assemblerimage.png "アセンブラの画像")
 
 
 # コミニティ
 
 ユーザ間のコミニティサイトとして、本リポジトリのGithub Discussionsを使用します。
 
-スレ立てはご自由に。
+TTM8を使った作品、質問など、
+ご自由にdiscussionを始めてみてください。
+
+## discussionを始める
+
+「Discussions」タブに移動して「New Discussion」のボタンから始めます。githubにログインが必要です。
+
+Discussionのカテゴリを選択しタイトルと投稿を書き「Start discussion」ボタンで投稿完了です。
+![discussion1](./image/newdiscussion1.png "discussion1")
+
+![discussion2](./image/newdiscussion2.png "discussion2")
+
+
+
 
 **[discussionsページ](https://github.com/denshirider/TTM8/discussions)**
 
